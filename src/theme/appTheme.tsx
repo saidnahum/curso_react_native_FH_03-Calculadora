@@ -12,8 +12,10 @@ export const styles = StyleSheet.create({
    },
    result: {
       color: 'white',
-      fontSize: 60,
+      fontSize: 80,
       textAlign: 'right',
+      fontWeight: '300',
+      marginBottom: 10
    },
    smallResult: {
       color: 'rgba(255,255,255,0.5)',
@@ -37,7 +39,7 @@ export const styles = StyleSheet.create({
    botonTexto: {
       textAlign: 'center',
       padding: 10,
-      fontSize: 30,
+      fontSize: 40,
       color: 'white',
       fontWeight: 'bold',
    }

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { SafeAreaView, StatusBar } from 'react-native';
 import CalculadoraScreen from './src/screens/CalculadoraScreen';
 import { styles } from './src/theme/appTheme';
